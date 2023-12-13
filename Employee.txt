@@ -14,6 +14,3 @@ empid:12103
 
 My name is : Vishnu
 empid: 12115
-
-vishnu & c0
-
